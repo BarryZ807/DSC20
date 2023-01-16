@@ -1,0 +1,9 @@
+Best Buy,G Pro Wireless,sold,5
+Amazon,Samsung TV,sold,10
+B&H,G Pro Wireless,sold,7
+B&H,G Pro Wireless,stocked,5
+B&H,G Pro Wireless,sold,10
+Amazon,Samsung TV,stocked,10
+Amazon,Samsung TV,sold,20
+Amazon,Samsung TV,sold,20
+Amazon,Samsung TV,stocked,10

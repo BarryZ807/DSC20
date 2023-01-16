@@ -1,0 +1,13 @@
+Newegg,RTX 3070,stocked,50
+Newegg,RTX 3070,sold,50
+Newegg,RTX 3080,stocked,25
+Newegg,RTX 3070,stocked,10
+Newegg,RTX 3070,sold,50
+Amazon,PS5,stocked,100
+Amazon,PS5,stocked,100
+Amazon,PS5,stocked,100
+Amazon,PS5,stocked,100
+Amazon,PS5,sold,400
+Best Buy,Xbox Series X,stocked,50
+Walmart,Ryzen 5600X,stocked,10
+Walmart,Ryzen Threadripper,stocked,20
